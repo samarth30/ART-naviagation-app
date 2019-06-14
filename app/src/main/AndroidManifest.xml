@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.dell.art">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity
+            android:name=".search_main"
+            android:label="@string/title_activity_search_main"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity android:name=".Babbage_Block" />
+        <activity android:name=".Gallelio_Block" />
+        <activity android:name=".Fleming_Block" />
+        <activity
+            android:name=".Architecture_Block"
+            android:label="@string/title_activity_architecture__block"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity android:name=".Newton_Block" />
+        <activity
+            android:name=".ImageSliderView"
+            android:label="@string/title_activity_image_slider_view"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_FifthFloor_RightStair"
+            android:label="@string/title_activity_turing__fifth_floor__right_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_FifthFloor_LeftStair"
+            android:label="@string/title_activity_turing__fifth_floor__left_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_FourthFloor_LeftStair"
+            android:label="@string/title_activity_turing__fourth_floor__left_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_FourthFloor_RightStair"
+            android:label="@string/title_activity_turing__fourth_floor__right_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_ThirdFloor_RightStair"
+            android:label="@string/title_activity_turing__third_floor__right_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_ThirdFloor_LeftStair"
+            android:label="@string/title_activity_turing__third_floor__left_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_secondFloor_RightStair"
+            android:label="@string/title_activity_turing_second_floor__right_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_secondFloor_LeftStair"
+            android:label="@string/title_activity_turing_second_floor__left_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_firstFloor_sideStair"
+            android:label="@string/title_activity_turing_first_floor_side_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_FirstFloor_MainStair"
+            android:label="@string/title_activity_turing__first_floor__main_stair"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_Basement_Right_Gate"
+            android:label="@string/title_activity_turing__basement__right__gate"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing_Basement_left_Gate"
+            android:label="@string/title_activity_turing__basement_left__gate"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Edison_first_floor"
+            android:label="@string/title_activity_edison_first_floor"
+            android:parentActivityName=".Turing"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Edison_basement"
+            android:label="@string/title_activity_edison_basement"
+            android:parentActivityName=".Edison"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Edison_ground_floor_sideGate"
+            android:label="@string/title_activity_edison_ground_floor_side_gate"
+            android:parentActivityName=".Edison"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Edison_ground_floor_back_gate"
+            android:label="@string/title_activity_edison_ground_floor_back_gate"
+            android:parentActivityName=".Edison"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Edison_Ground_Floor_Main_Gate"
+            android:label="@string/title_activity_edison__ground__floor__main__gate"
+            android:parentActivityName=".Edison"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SecondFloorGate1"
+            android:label="@string/title_activity_second_floor_gate1"
+            android:parentActivityName=".SquareOne"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FirstFloorGate2"
+            android:label="@string/title_activity_first_floor_gate2"
+            android:parentActivityName=".SquareOne"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".FirstFloorGate1"
+            android:label="@string/title_activity_first_floor_gate1"
+            android:parentActivityName=".SquareOne"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GroundFloorGate2"
+            android:label="@string/title_activity_ground_floor_gate2"
+            android:parentActivityName=".SquareOne"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".GroundFloorGate1"
+            android:label="@string/title_activity_ground_floor_gate1"
+            android:parentActivityName=".SquareOne"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Explore_Hub"
+            android:label="@string/title_activity_explore__hub"
+            android:parentActivityName=".HomeDrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Turing"
+            android:label="@string/title_activity_turing"
+            android:parentActivityName=".HomeDrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".Edison"
+            android:label="@string/title_activity_edison"
+            android:parentActivityName=".HomeDrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SquareOne"
+            android:label="@string/title_activity_square_one"
+            android:parentActivityName=".HomeDrawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".HomeDrawer"
+            android:label="@string/title_activity_home_drawer"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".MainActivity"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme.NoActionBar"></activity>
+        <activity
+            android:name=".activity_intro"
+            android:noHistory="true"
+            android:screenOrientation="portrait">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

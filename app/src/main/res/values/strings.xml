@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">A.R.T</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_home_drawer">HomeDrawer</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="title_activity_search">search</string>
+    <string name="title_activity_square_one">SquareOne</string>
+    <string name="title_activity_edison">Edison</string>
+    <string name="title_activity_turing">Turing</string>
+    <string name="title_activity_explore__hub">Explore Hub</string>
+    <string name="title_activity_ground_floor_gate1">GroundFloorGate1</string>
+    <string name="title_activity_ground_floor_gate2">GroundFloorGate2</string>
+    <string name="title_activity_first_floor_gate1">FirstFloorGate1</string>
+    <string name="title_activity_first_floor_gate2">FirstFloorGate2</string>
+    <string name="title_activity_second_floor_gate1">SecondFloorGate1</string>
+    <string name="title_activity_edison__ground__floor__main__gate">Edison_Ground_Floor_Main_Gate
+    </string>
+    <string name="title_activity_edison_ground_floor_back_gate">Edison_ground_floor_back_gate
+    </string>
+    <string name="title_activity_edison_ground_floor_side_gate">Edison_ground_floor_sideGate
+    </string>
+    <string name="title_activity_edison_basement">Edison_basement</string>
+    <string name="title_activity_edison_first_floor">Edison_first_floor</string>
+    <string name="title_activity_turing__basement_left__gate">Turing_Basement_left_Gate</string>
+    <string name="title_activity_turing__basement__right__gate">Turing_Basement_Right_Gate</string>
+    <string name="title_activity_turing__first_floor__main_stair">Turing_FirstFloor_MainStair
+    </string>
+    <string name="title_activity_turing_first_floor_side_stair">Turing_firstFloor_sideStair</string>
+    <string name="title_activity_turing_second_floor__left_stair">Turing_secondFloor_LeftStair
+    </string>
+    <string name="title_activity_turing_second_floor__right_stair">Turing_secondFloor_RightStair
+    </string>
+    <string name="title_activity_turing__third_floor__left_stair">Turing_ThirdFloor_LeftStair
+    </string>
+    <string name="title_activity_turing__third_floor__right_stair">Turing_ThirdFloor_RightStair
+    </string>
+    <string name="title_activity_turing__fourth_floor__right_stair">Turing_FourthFloor_RightStair
+    </string>
+    <string name="title_activity_turing__fourth_floor__left_stair">Turing_FourthFloor_LeftStair
+    </string>
+    <string name="title_activity_turing__fifth_floor__left_stair">Turing_FifthFloor_LeftStair
+    </string>
+    <string name="title_activity_turing__fifth_floor__right_stair">Turing_FifthFloor_RightStair
+    </string>
+    <string name="title_activity_image_slider_view">ImageSliderView</string>
+    <string name="section_format">Hello World from section: %1$d</string>
+    <string name="title_activity_architecture__block">Architecture_Block</string>
+    <string name="title_activity_search_main">search_main</string>
+</resources>
