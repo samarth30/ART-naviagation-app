@@ -13,3 +13,4 @@ dependencies{
 
 }
 
+it is an amazing list view app which includes various animation listview and recycler view in search view it also includes customable navigation drawer.
